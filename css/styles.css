@@ -688,6 +688,7 @@ footer .contacts a {
     width: 100%;
     padding-left: 35px;
     transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    outline: transparent;
   
 }
 
@@ -752,6 +753,7 @@ footer .contacts a {
     color: var(--text-primary);
     padding: 12px 16px;
     transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    outline: transparent;
 }
 
 .comment::placeholder {
